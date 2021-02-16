@@ -1,0 +1,12 @@
+1. Write a program (function!) that takes a list and returns a new list that
+contains all the elements of the first list minus all the duplicates.
+
+2. Write a program (using functions!) that asks the user for a long string
+containing multiple words. Print back to the user the same string,
+except with the words in backwards order. For example, say I type the string:
+
+input: My name is Michele
+Then I would see the string:
+
+output: Michele is name My
+shown back to me.
